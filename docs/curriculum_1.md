@@ -9,7 +9,7 @@ Implement the Goldilocks prime field ($p = 2^{64} - 2^{32} + 1$). You will build
 **3. Theory Resources to View Before Coding (Important)**
 
 * *Vitalik Buterin's blog*: "[Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)" (specifically the primer on prime fields and modular math).
-* *Stark 101*: Part 1 (Field element implementation concepts).
+* *[Stark 101](https://github.com/lambdaclass/STARK101-rs/blob/main/stark101/src/field.rs)*: Part 1 (Field element implementation concepts).
 
 **4. Theory Resources (Optional)**
 
